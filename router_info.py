@@ -1,4 +1,4 @@
-router = {"host": "sbx-nxos-mgmt.cisco.com", 
-          "port": "22", 
+router = {"host": "devnetsandboxiosxe.cisco.com", 
+          "port": "830", 
           "username": "admin", 
-          "password": "Admin_1234!"}
+          "password": "C1sco12345"}
