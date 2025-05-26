@@ -4,7 +4,8 @@ import xmltodict
 import xml.dom.minidom
 
 
-router = {"host": "sbx-nxos-mgmt.cisco.com", "port": "22", "username": "admin", "password": "Admin_1234!"}
+router = {"host": "sbx-nxos-mgmt.cisco.com", "port": "22", "username": "admin", "password": #(your_password_goes_here)
+         }
 
 print(router["host"])
 print(router["port"])
