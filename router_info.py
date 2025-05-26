@@ -1,4 +1,5 @@
 router = {"host": "devnetsandboxiosxe.cisco.com", 
           "port": "830", 
           "username": "admin", 
-          "password": "C1sco12345"}
+          "password": #(your_password_goes_here)
+         }
